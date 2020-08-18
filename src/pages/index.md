@@ -18,7 +18,7 @@ description: >-
   anyone.
 intro:
   blurbs:
-    - image: /img/design.png
+    - image: /img/coffee.png
       text: >
         We sell green and roasted design beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
