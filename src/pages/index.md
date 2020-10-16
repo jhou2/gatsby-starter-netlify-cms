@@ -3,19 +3,14 @@ templateKey: index-page
 title: Great design with a conscience
 image: /img/home-jumbotron.jpg
 heading: Great design with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: Marketing with custom designs
 mainpitch:
-  title: Why Bread & Butter
+  title: Why Bread & Butter Design
   description: >
-    Bread & Butter is the design store for everyone who believes that great design
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Bread & Butter is the design shop for everyone who believes that great design
+    and great marketing go hand in hand
 description: >-
-  Bread & Butter is the ultimate spot for design lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take design production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Bread & Butter is the one stop shop for businesses to get end to end marketing.
 intro:
   blurbs:
     - image: /img/market-main.png
